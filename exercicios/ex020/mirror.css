@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+
+body {
+    margin: 50px
+}
+
+#maluco {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    width: 150px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#doido {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(173, 173, 173);
+}
+
+.bonito {
+    text-indent: 30px;
+    margin-left: auto;
+
+}
+
+#cr7 {
+    margin-left: 200px;
+}
+
+
+#oi {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+#eba {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(188, 188, 236);
+    font-size: 50px;
+    text-align: center;
+   color: blue;
+}
+
+.pubg {
+    margin-bottom: -12px;
+}
